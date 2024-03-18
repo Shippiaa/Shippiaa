@@ -17,7 +17,7 @@ I'm a Barista with a passion for coding. Here's a little about me:
 - Tools: Visual scource code & Pycharm
 
 ## 🌐 Socials
-- LinkedIn: [![LinkedIn](https://www.linkedin.com/in/marti-bleakley-0040532a2/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/marti-bleakley-0040532a2/)
 
 ## 📄 Résumé
 [View my CV](https://drive.google.com/file/d/15L5BW0dPT_1n61pZj4E5e4ZgPDEeVUYV/view?usp=sharing)
