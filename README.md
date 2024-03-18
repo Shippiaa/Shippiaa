@@ -1,16 +1,27 @@
-### Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**Shippiaa/Shippiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm Marti 👋
 
-Here are some ideas to get you started:
+I'm a Barista with a passion for coding. Here's a little about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 I’m currently working on a personal finance tracker.
+- 🌱 I’m currently learning Python & Java.
+- 📫 How to reach me: martibleakley1@gmail.com
+- 😄 Pronouns: He/Him
+
+
+## 🛠 Skills
+- Languages: Python, Java.
+- Frameworks/Libraries: PyTorch/Numpy, Pandas
+- Tools: Visual scource code & Pycharm
+
+## 🌐 Socials
+- LinkedIn: [![LinkedIn](https://www.linkedin.com/in/marti-bleakley-0040532a2/)
+
+## 📄 Résumé
+[View my CV](https://drive.google.com/file/d/15L5BW0dPT_1n61pZj4E5e4ZgPDEeVUYV/view?usp=sharing)
+
+---
+Thank you for stopping by!
+
